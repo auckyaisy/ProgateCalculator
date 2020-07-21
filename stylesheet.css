@@ -1,4 +1,6 @@
-/*divs*/
+body{
+    background-color: black;
+}
 .calc{
     text-align:center;
     margin:0px auto;
